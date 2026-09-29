@@ -11,7 +11,8 @@ const Card = () => {
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, voluptate.
         </p>
         <button>
-          View Profile
+          View Profile 
+          
         </button>
       </div>
   )
