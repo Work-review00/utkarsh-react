@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif ;
+  color:#fff;
+
+  
+}
+html,
+body{
+  height: 100%;
+  width:100%;
+
+}
+
+body{
+  background-color: red;
+}
+.card{
+  background-color: pink;
+  border-radius:10px;
+  margin:20px;
+  padding: 33px;
+}
+
+.nav{
+  background-color: aqua;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px;
+  margin: 16px;
+  color: #fff;
+  display: flex;
+}

@@ -1,0 +1,17 @@
+nav,ul{
+    display: flex;
+    
+}
+nav,ul,li{
+    list-style-type: none;
+}
+ul{
+    gap:26px
+}
+nav{
+    background-color: beige;
+    padding:23px;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+}
